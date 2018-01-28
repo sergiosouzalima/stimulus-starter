@@ -21,7 +21,9 @@ http://localhost:9000
 
 You should see a screen like that:
 
-![alt-text](public/screen01.png)
+![screen01.jpg](public/screen01.png)
+
+You can see here an online version of this app [stimulus-starter](https://stimulus-starter.herokuapp.com)
 
 ---
 

@@ -2,6 +2,8 @@
 
 This is a project basead on a preconfigured blank slate for exploring [Stimulus](https://github.com/stimulusjs/stimulus). Jump to [The Stimulus Handbook](https://github.com/stimulusjs/stimulus/blob/master/handbook/README.md) for a quick introduction.
 
+You can see here an online version of this app [stimulus-starter](https://stimulus-starter.herokuapp.com)
+
 ---
 
 To clone and set up this `stimulus-starter project`:
@@ -22,10 +24,6 @@ http://localhost:9000
 You should see a screen like that:
 
 ![screen01.jpg](public/screen01.png)
-
----
-
-You can see here an online version of this app [stimulus-starter](https://stimulus-starter.herokuapp.com)
 
 ---
 

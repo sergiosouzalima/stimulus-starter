@@ -4,8 +4,6 @@ This is a project basead on a preconfigured blank slate for exploring [Stimulus]
 
 ---
 
----
-
 To clone and set up this `stimulus-starter project`:
 
 ```
@@ -18,4 +16,4 @@ $ yarn start
 ---
 
 © 2018 Basecamp, LLC.
-# stimulus-starter
+# StimulusJS

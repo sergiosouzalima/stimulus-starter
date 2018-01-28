@@ -16,4 +16,4 @@ $ yarn start
 ---
 
 © 2018 Basecamp, LLC.
-# StimulusJS
+## StimulusJS

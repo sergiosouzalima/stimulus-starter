@@ -19,7 +19,10 @@ Now, to run this app, enter the following address in your browser address bar:
 http://localhost:9000
 ```
 
+You should see a screen like that:
+
 ![alt-text](public/screen01.png)
+
 ---
 
 © 2018 Basecamp, LLC.

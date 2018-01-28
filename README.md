@@ -13,6 +13,12 @@ $ yarn install
 $ yarn start
 ```
 
+Now, to run this app, enter the following address in your browser address bar:
+
+```
+http://localhost:9000
+```
+
 ---
 
 © 2018 Basecamp, LLC.
